@@ -1,4 +1,4 @@
-# Module-1
+# Module-3
 # List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
@@ -21,7 +21,6 @@ print(sum(L)))
 ## Result
 Thus, the program has been executed successfully.
 
-# Module-2
 # Regex in Python: Filter Words Without the Letter 'e'
 
 ## 🎯 Aim
@@ -52,7 +51,6 @@ print(l1)
 ## Result
 Thus,the program has been executed successfully.
 
-# Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
@@ -87,7 +85,6 @@ print(a)
 ## Result
 Thus ,the program has been executed successfully.
 
-# Module-4
 # Strings-Palindrome Check in Python (Without Built-in Functions)
 
 ## 🎯 Aim
@@ -117,7 +114,6 @@ else:
 ## Result
 Thus,the program has been executed successfully.
 
-# Module-5
 # Tuple in Python: Check Element Existence
 
 ## 🎯 Aim
